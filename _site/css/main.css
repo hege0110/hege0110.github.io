@@ -198,9 +198,9 @@ pre {
       .site-nav .trigger {
         clear: both;
         display: none; }
-      .site-nav:hover .trigger {
+/*       .site-nav:hover .trigger {
         display: block;
-        padding-bottom: 5px; }
+        padding-bottom: 5px; } */
       .site-nav:focus .trigger {
         display: block;
         padding-bottom: 5px; }
