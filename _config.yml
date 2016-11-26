@@ -17,10 +17,11 @@ title: Gabe Hege
 email: hege@mit.edu
 description: Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "httpss://hege0110.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://hege0110.github.io" # the base hostname & protocol for your site
+twitter_username: pghege
+github_username:  hege0110
 
 # Build settings
 markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 theme: minima
