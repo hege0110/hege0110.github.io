@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Gabe Hege</title>
-    <link>https://example.com/post/index.xml</link>
+    <link>https://pghege.com/post/index.xml</link>
     <description>Recent content in Posts on Gabe Hege</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,13 +11,13 @@
     
     <item>
       <title>MIT, An Experience</title>
-      <link>https://example.com/post/mit/</link>
+      <link>https://pghege.com/post/mit/</link>
       <pubDate>Fri, 09 Jun 2017 10:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/mit/</guid>
+      <guid>https://pghege.com/post/mit/</guid>
       <description>&lt;p&gt;A look at the 5 years I spent at MIT. This post just explores how I chose to spend my time. Your experience &lt;strong&gt;will&lt;/strong&gt; vary.
   
-&lt;img src=&#34;https://example.com/img/door.JPG#small_only&#34; alt=&#34;Door to my room Senior Year&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://pghege.com/img/door.JPG#small_only&#34; alt=&#34;Door to my room Senior Year&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;the-classes&#34;&gt;The Classes&lt;/h1&gt;
 
@@ -35,18 +35,18 @@
 &lt;h3 id=&#34;6-013-electromagnetics-applications&#34;&gt;6.013 Electromagnetics &amp;amp; Applications&lt;/h3&gt;
 
 &lt;p&gt;Learned how to read one of these
-&lt;img src=&#34;https://example.com/img/smith.jpg#small_only&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://pghege.com/img/smith.jpg#small_only&#34; alt=&#34;&#34; /&gt;
 Assembled one of these
-&lt;img src=&#34;https://example.com/img/radar.png#small_only&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://pghege.com/img/radar.png#small_only&#34; alt=&#34;&#34; /&gt;
 &lt;!-- ### 6.861 Computer Intelligence --&gt;
 &lt;!-- &gt;it was the age of wisdom, it was the age of foolishness --&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;18-0651-matrix-methods-in-data-analysis-signal-processing&#34;&gt;18.0651 Matrix Methods in Data Analysis &amp;amp; Signal Processing&lt;/h3&gt;
 
 &lt;p&gt;Deriving the method that allows for the photostitching of two images
-&lt;img src=&#34;https://example.com/img/charles1.png#small&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://example.com/img/charles2.png#small&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://example.com/img/charles_stitched2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://pghege.com/img/charles1.png#small&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://pghege.com/img/charles2.png#small&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://pghege.com/img/charles_stitched2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;!-- ### Music Classes --&gt;
 
@@ -88,7 +88,7 @@ A general image:
 
 A numbered figure with caption:
 
-    {{&lt; figure src=&#34;https://example.com/img/screenshot.png&#34; title=&#34;Figure Caption&#34; &gt;}}
+    {{&lt; figure src=&#34;https://pghege.com/img/screenshot.png&#34; title=&#34;Figure Caption&#34; &gt;}}
 
 ## Links
 
@@ -286,10 +286,10 @@ This will display the following *warning* block:
     
     <item>
       <title>How to Read and Write a Paper</title>
-      <link>https://example.com/post/test/</link>
+      <link>https://pghege.com/post/test/</link>
       <pubDate>Tue, 11 Apr 2017 10:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/test/</guid>
+      <guid>https://pghege.com/post/test/</guid>
       <description>&lt;p&gt;Over the last five years I have had to read over probably close to two hundred academic papers for class, work, and research. Few papers are actually even read entirely. It is common for one to skim, get the gist, and move on. I&amp;rsquo;ve personally always found the format and tone used in academic papers poor at actually effectively conveying information to its readers. Especially in the increasing number of papers and information, it&amp;rsquo;s senseless. Blog formats are far more engaging to readers and actually something people spend time reading.&lt;/p&gt;
 
 &lt;!--
@@ -337,7 +337,7 @@ A general image:
 
 A numbered figure with caption:
 
-    {{&lt; figure src=&#34;https://example.com/img/screenshot.png&#34; title=&#34;Figure Caption&#34; &gt;}}
+    {{&lt; figure src=&#34;https://pghege.com/img/screenshot.png&#34; title=&#34;Figure Caption&#34; &gt;}}
 
 ## Links
 
