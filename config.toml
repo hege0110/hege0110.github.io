@@ -191,3 +191,4 @@ defaultContentLanguageInSubdir = false
   languageCode = "en-us"
   [languages.fr]
     languageCode = "fr"
+publishDir = "doc"

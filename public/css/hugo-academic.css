@@ -1108,3 +1108,13 @@ div.alert a:hover {
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
 }
+
+img[src$='#small']
+{
+	width:50%;
+    float:left;
+}
+img[src$='#small_only']
+{
+	width:50%;
+}
