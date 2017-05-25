@@ -15,12 +15,32 @@
       <pubDate>Fri, 09 Jun 2017 10:00:00 +0000</pubDate>
       
       <guid>https://pghege.com/post/mit/</guid>
-      <description>&lt;p&gt;A look at the 5 years I spent at MIT. This post just explores how I chose to spend my time. If you choose to attend, your experience &lt;strong&gt;will&lt;/strong&gt; vary.
+      <description>&lt;!-- caption = &#34;Shot on iPhone6 😄&#34; --&gt;
+
+&lt;p&gt;A look at the 5 years I spent at MIT. This post explores some cool classes I took, and projects I was a part of during my time and generally how I chose to spend my time. Note that if you choose to attend, your experience &lt;strong&gt;will&lt;/strong&gt; vary.
   &lt;/p&gt;
 
 &lt;!-- ![Door to my room Senior Year](/img/door.JPG#small_only) --&gt;
 
 
+
+
+
+
+&lt;figure class=&#34;imagecaption&#34;&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;Door to my room senior year&#34; alt=&#34;Door to my room senior year&#34; src=&#34;https://pghege.com/img/door.JPG#small_only&#34;&gt;&lt;/img&gt;
+  &lt;imgcaption&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;Door to my room senior year&lt;/span&gt;
+&lt;/imgcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;!-- 
 &lt;figure &gt;
     
         &lt;img src=&#34;https://pghege.com/img/door.JPG#small_only&#34; alt=&#34;Door to my room senior year&#34; /&gt;
@@ -36,13 +56,15 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
-
+ --&gt;
 
 &lt;h1 id=&#34;the-classes&#34;&gt;The Classes&lt;/h1&gt;
 
 &lt;h3 id=&#34;6-141-robotics&#34;&gt;6.141 Robotics&lt;/h3&gt;
 
 &lt;!-- &gt; It was the best of times, it was the worst of times. --&gt;
+
+&lt;p&gt;Although I was on the robotics team in high school (woo! go Foxes 110!) This was completely different!&lt;/p&gt;
 
 &lt;p&gt;Assemble a robot and program it to identify colored blocks, and stack them. Sounds easy enough. Getting the robotic arm to stop before smacking itself against the floor (i.e. motor control) proved to be harder than it appeared
 
@@ -55,6 +77,24 @@
 
 &lt;p&gt;Learned how to read one of these
 
+
+
+
+
+&lt;figure class=&#34;imagecaption&#34;&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;Smith Chart. Useful when determining the length of wire required to make a radar&#34; alt=&#34;Smith Chart. Useful when determining the length of wire required to make a radar&#34; src=&#34;https://pghege.com/img/smith.jpg#small_only&#34;&gt;&lt;/img&gt;
+  &lt;imgcaption&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;Smith Chart. Useful when determining the length of wire required to make a radar&lt;/span&gt;
+&lt;/imgcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+
+&lt;/p&gt;
+
+&lt;!-- 
 &lt;figure &gt;
     
         &lt;img src=&#34;https://pghege.com/img/smith.jpg#small_only&#34; alt=&#34;Smith Chart. Useful when determining the length of wire required to make a radar&#34; /&gt;
@@ -70,37 +110,68 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
-&lt;/p&gt;
+ --&gt;
 
 &lt;p&gt;Assembled one of these
 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://pghege.com/img/radar.png#small_only&#34; alt=&#34;Radar assembled in class pointed at a tin foil box which can be used to listen generated from within. &#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Radar assembled in class pointed at a tin foil box which can be used to listen generated from within. 
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
+
+
+
+
+&lt;figure class=&#34;imagecaption&#34;&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;My team and I assembled the Radar in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&#34; alt=&#34;My team and I assembled the Radar in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&#34; src=&#34;https://pghege.com/img/radar.png#small_only&#34;&gt;&lt;/img&gt;
+  &lt;imgcaption&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;My team and I assembled the Radar in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&lt;/span&gt;
+&lt;/imgcaption&gt;
 &lt;/figure&gt;
 
+
+
+
+
+&lt;/p&gt;
+
 &lt;!-- ![](/img/radar.png#small_only) --&gt;
+
 &lt;!-- ### 6.861 Computer Intelligence --&gt;
-&lt;!-- &gt;it was the age of wisdom, it was the age of foolishness --&gt;&lt;/p&gt;
+
+&lt;!-- &gt;it was the age of wisdom, it was the age of foolishness --&gt;
 
 &lt;h3 id=&#34;18-0651-matrix-methods-in-data-analysis-signal-processing&#34;&gt;18.0651 Matrix Methods in Data Analysis &amp;amp; Signal Processing&lt;/h3&gt;
 
-&lt;p&gt;Deriving the method that allows for the photostitching of two images
+&lt;p&gt;Removing people from video, I couldn&amp;rsquo;t believe my eyes.&lt;/p&gt;
+
+&lt;p&gt;Deriving the method that allows for the photo stitching of two images
 &lt;img src=&#34;https://pghege.com/img/charles1.png#small&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://pghege.com/img/charles2.png#small&#34; alt=&#34;&#34; /&gt;
 &lt;!-- ![](/img/charles_stitched2.png) --&gt;
 
+
+
+
+
+&lt;figure class=&#34;imagecaption&#34;&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;Stitched photo of the Charles, view from my room senior year&#34; alt=&#34;Stitched photo of the Charles, view from my room senior year&#34; src=&#34;https://pghege.com/img/charles_stitched2.png&#34;&gt;&lt;/img&gt;
+  &lt;imgcaption&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;Stitched photo of the Charles, view from my room senior year&lt;/span&gt;
+&lt;/imgcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+
+&lt;/p&gt;
+
+&lt;h3 id=&#34;6-831-user-interface&#34;&gt;6.831 User Interface&lt;/h3&gt;
+
+&lt;p&gt;A fun class, where you learn design principles and how to perform a KLM analysis. It&amp;rsquo;s mostly project based, get to build implement candy crush web game. Neat!
+&lt;img src=&#34;https://pghege.com/img/candy.png#small_only&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;!-- # The Clubs
+## Energy --&gt;
+
+&lt;!-- 
 &lt;figure &gt;
     
         &lt;img src=&#34;https://pghege.com/img/charles_stitched2.png&#34; alt=&#34;Stitched photo made from the above two pictures. View of the Charles from my room senior year&#34; /&gt;
@@ -116,7 +187,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
-&lt;/p&gt;
+ --&gt;
 
 &lt;!-- ### Music Classes --&gt;
 
@@ -365,22 +436,18 @@ This will display the following *warning* block:
     </item>
     
     <item>
-      <title>Aerospace Controls Lab</title>
+      <title>Augmented Reality for Robot Prototyping</title>
       <link>https://pghege.com/project/acl/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pghege.com/project/acl/</guid>
-      <description>&lt;p&gt;Although the decreasing cost of electronic hardware has made unmanned aerial vehicles an affordable platform for developing autonomous algorithms, there are still many challenges facing this area of research including planning, control, perception and learning. When designing software models that tackles these problems, it is necessary to test the model’s performance on live robotic hardware. Performing live tests are a key step in transitioning algorithms from software simulation to real-world systems. These tests are important in understanding how the algorithm performs in different tasks and reacts to various kinds of environmental noise. In general, when running algorithms on physical robotics systems, new challenges that are often unrelated to the primary goals of the investigation present themselves, including issues of hardware failure and noisy environments. When running algorithms on flying robots or quads, these issues are magnified with the added concern of unsafe failure modes. When a ground robot fails, at worst it collides with a wall or stubs someone’s toe. When a quad fails, spinning propellers in the air may potentially cause more damage. With these challenges, the overhead of creating new demonstrations are time consuming obstacles that are often burdensome to researchers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational Cognitive Science</title>
-      <link>https://pghege.com/project/cocosci/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://pghege.com/project/cocosci/</guid>
-      <description>&lt;p&gt;VerbCorner is an online linguistics project which works to figure out what verbs mean using semantic structure and further understand how we communicate with one another. Figuring out what verbs mean is a large undertaking and requires many annotations to be made. VerbCorner takes the approach of presenting a short story to go along with a question at the end asking about various types of meaning. With the help of many people, the task of annotating verbs is a lot easier; but then we are left with the task of validating the annotations. To evaluate the quality of the annotations we apply an item- response model described in Hovy’s paper entitled Learning Whom to Trust with MACE[1]. The system that learns in an unsupervised way to do two things. 1) Identify which annotators are trustworthy and 2) predict the correct labels. We implemented a basic version of the model they described using probabilistic programming language Venture. Then we had the model run this model on the crowd sourced annotations on the semantic structure of verbs generated by users on VerbCorner. We tested the model in different conditions in hopes of finding out more about our data. Further refinement of the model, including taking a look at the priors distribution across the answers will have to be reconsidered.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;[&lt;a href=&#34;https://pghege.com/research/acl.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Although the decreasing cost of electronic hardware has made unmanned aerial vehicles an affordable platform for developing autonomous algorithms, there are still many challenges facing this area of research including planning, control, perception and learning. When designing software models that tackles these problems, it is necessary to test the model’s performance on live robotic hardware. Performing live tests are a key step in transitioning algorithms from software simulation to real-world systems. These tests are important in understanding how the algorithm performs in different tasks and reacts to various kinds of environmental noise. In general, when running algorithms on physical robotics systems, new challenges that are often unrelated to the primary goals of the investigation present themselves, including issues of hardware failure and noisy environments. When running algorithms on flying robots or quads, these issues are magnified with the added concern of unsafe failure modes. When a ground robot fails, at worst it collides with a wall or stubs someone’s toe. When a quad fails, spinning propellers in the air may potentially cause more damage. With these challenges, the overhead of creating new demonstrations are time consuming obstacles that are often burdensome to researchers.&lt;/p&gt;
 </description>
     </item>
     
@@ -413,6 +480,22 @@ MATLAB + KINECT&lt;/p&gt;
 &lt;!-- &lt;script src=&#34;//gist.github.com/hege0110/fcc61ae7d793c4eba30218560ab17aba.js&#34;&gt;&lt;/script&gt; --&gt;
 &lt;!-- &lt;script src=&#34;https://gist.github.com/hege0110/fcc61ae7d793c4eba30218560ab17aba.js&#34;&gt;&lt;/script&gt; --&gt;
 &lt;a href=&#34;https://github.com/hege0110/matlab-drone&#34; target=&#34;_blank&#34;&gt;MATLAB Drone&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning from Crowds</title>
+      <link>https://pghege.com/project/cocosci/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pghege.com/project/cocosci/</guid>
+      <description>
+
+&lt;p&gt;[&lt;a href=&#34;https://pghege.com/research/cocosci.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;VerbCorner is an online linguistics project which works to figure out what verbs mean using semantic structure and further understand how we communicate with one another. Figuring out what verbs mean is a large undertaking and requires many annotations to be made. VerbCorner takes the approach of presenting a short story to go along with a question at the end asking about various types of meaning. With the help of many people, the task of annotating verbs is a lot easier; but then we are left with the task of validating the annotations. To evaluate the quality of the annotations we apply an item- response model described in Hovy’s paper entitled Learning Whom to Trust with MACE[1]. The system that learns in an unsupervised way to do two things. 1) Identify which annotators are trustworthy and 2) predict the correct labels. We implemented a basic version of the model they described using probabilistic programming language Venture. Then we had the model run this model on the crowd sourced annotations on the semantic structure of verbs generated by users on VerbCorner. We tested the model in different conditions in hopes of finding out more about our data. Further refinement of the model, including taking a look at the priors distribution across the answers will have to be reconsidered.&lt;/p&gt;
 </description>
     </item>
     
