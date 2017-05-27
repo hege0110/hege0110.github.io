@@ -61,7 +61,7 @@
 
 
 &lt;blockquote&gt;
-&lt;p&gt;I may not be a master builder. I may not have a lot of experience fighting or leading or coming up with plans. Or having ideas in general. In fact, I&amp;rsquo;m not all that smart. I&amp;rsquo;m not, what you would call, a creative type. Plus, generally unskilled. Also, scared and cowardly. I know what you are thinking: he is the least qualified person to lead us. And you are right.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I may not be a master builder. I may not have a lot of experience fighting or leading or coming up with plans. Or having ideas in general. In fact, I&amp;rsquo;m not all that smart. I&amp;rsquo;m not, what you would call, a creative type. Plus, generally unskilled. Also, scared and cowardly. I know what you are thinking: he is the least qualified person to lead us. And you are right.&amp;rdquo; &amp;ndash; &lt;strong&gt;Emmet&lt;/strong&gt; &lt;em&gt;Lego Movie&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h1 id=&#34;year-two&#34;&gt;YEAR TWO&lt;/h1&gt;
@@ -85,9 +85,7 @@
 
 
 &lt;blockquote&gt;
-&lt;p&gt;I know what I have to now.
-I have to keep breathing.  because tomorrow, the sun will rise.
-Who knows what the tide could bring?&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I know what I have to do now. I have to keep breathing.  Because tomorrow, the sun will rise. Who knows what the tide could bring?&amp;rdquo; &amp;ndash; &lt;strong&gt;Chuck Noland&lt;/strong&gt;  &lt;em&gt;Cast Away&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h1 id=&#34;year-three&#34;&gt;YEAR THREE&lt;/h1&gt;
@@ -111,7 +109,7 @@ Who knows what the tide could bring?&lt;/p&gt;
 
 
 &lt;blockquote&gt;
-&lt;p&gt;I don&amp;rsquo;t stop when I am tired I stop when I am done&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I don&amp;rsquo;t stop when I am tired I stop when I am done&amp;rdquo; &amp;ndash; &lt;strong&gt;James Bond&lt;/strong&gt;  &lt;em&gt;Casino Royale&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h1 id=&#34;year-four&#34;&gt;YEAR FOUR&lt;/h1&gt;
@@ -135,7 +133,7 @@ Who knows what the tide could bring?&lt;/p&gt;
 
 
 &lt;blockquote&gt;
-&lt;p&gt;Do or do not, there is no try&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Do or do not, there is no try&amp;rdquo; &amp;ndash; &lt;strong&gt;Yoda&lt;/strong&gt; &lt;em&gt;Empire Strikes Back&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h1 id=&#34;year-five&#34;&gt;YEAR FIVE&lt;/h1&gt;
@@ -159,7 +157,7 @@ Who knows what the tide could bring?&lt;/p&gt;
 
 
 &lt;blockquote&gt;
-&lt;p&gt;I AM GROOT&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I AM GROOT&amp;rdquo; &amp;ndash; &lt;strong&gt;Groot&lt;/strong&gt; &lt;em&gt;Guardians of the Galaxy&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h1 id=&#34;the-classes&#34;&gt;The Classes&lt;/h1&gt;
@@ -168,14 +166,32 @@ Who knows what the tide could bring?&lt;/p&gt;
 
 &lt;!-- &gt; It was the best of times, it was the worst of times. --&gt;
 
-&lt;p&gt;Although I was on the robotics team in high school (woo! go Foxes 110!) This was completely different!&lt;/p&gt;
+&lt;p&gt;Although I was on the robotics team in high school (woo! go Foxes 110!), this was next level!
 
-&lt;p&gt;Assemble a robot and program it to identify colored blocks, and stack them. Sounds easy enough. Getting the robotic arm to stop before smacking itself against the floor (i.e. motor control) proved to be harder than it appeared
+
+
+
+
+&lt;figure class=&#34;imagecaption&#34;&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;&#34; alt=&#34;&#34; src=&#34;https://pghege.com/img/wall-e.jpg&#34;&gt;&lt;/img&gt;
+  &lt;imgcaption&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;&lt;/span&gt;
+&lt;/imgcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+
+
+Assemble a robot and program it to identify colored blocks, and stack them. Sounds easy enough. Getting the robotic arm to stop before smacking itself against the floor (i.e. motor control) proved to be harder than originally imagined.
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/p40Jl4Owquc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 &lt;/p&gt;
+
+&lt;p&gt;I wish I had more video of the final product. With the depth sensor attached to the head the robot did actually look somewhat Wall-E like. This class was stressful yet rewarding. It required a lot of time in lab, team collaboration, and ambitious deadlines. Many sleepless nights were spent just attaching everything with proverbial thumbtacks and tape. Unlike debugging software, a robot may fail just because a well cleaned part of the floor catches the camera and the robot thinks its a giant block.&lt;/p&gt;
 
 &lt;h3 id=&#34;6-013-electromagnetics-applications&#34;&gt;6.013 Electromagnetics &amp;amp; Applications&lt;/h3&gt;
 
@@ -216,16 +232,15 @@ Who knows what the tide could bring?&lt;/p&gt;
 &lt;/figure&gt;
  --&gt;
 
-&lt;p&gt;Assembled one of these
 
 
 
 
 
 &lt;figure class=&#34;imagecaption&#34;&gt;
-  &lt;img class=&#34;caption&#34; title=&#34;My team and I assembled the Radar in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&#34; alt=&#34;My team and I assembled the Radar in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&#34; src=&#34;https://pghege.com/img/radar.png#small_only&#34;&gt;&lt;/img&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;My team and I assembled the radar (above) in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&#34; alt=&#34;My team and I assembled the radar (above) in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&#34; src=&#34;https://pghege.com/img/radar.png#small_only&#34;&gt;&lt;/img&gt;
   &lt;imgcaption&gt;
-    &lt;span class=&#34;caption-text&#34;&gt;My team and I assembled the Radar in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&lt;/span&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;My team and I assembled the radar (above) in class. Pointed at a tin foil box the radar can detect audio that is generated from within by measuring vibrations off of the foil (plastic wrap works better)&lt;/span&gt;
 &lt;/imgcaption&gt;
 &lt;/figure&gt;
 
@@ -233,7 +248,7 @@ Who knows what the tide could bring?&lt;/p&gt;
 
 
 
-&lt;/p&gt;
+
 
 &lt;!-- ![](/img/radar.png#small_only) --&gt;
 
@@ -266,6 +281,24 @@ Who knows what the tide could bring?&lt;/p&gt;
 
 
 &lt;/p&gt;
+
+
+
+
+
+
+&lt;figure class=&#34;imagecaption&#34;&gt;
+  &lt;img class=&#34;caption&#34; title=&#34;Casually removing people from images through the power of the SVD.&#34; alt=&#34;Casually removing people from images through the power of the SVD.&#34; src=&#34;https://pghege.com/img/disappear.png&#34;&gt;&lt;/img&gt;
+  &lt;imgcaption&gt;
+    &lt;span class=&#34;caption-text&#34;&gt;Casually removing people from images through the power of the SVD.&lt;/span&gt;
+&lt;/imgcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+
+
 
 &lt;h3 id=&#34;6-831-user-interface&#34;&gt;6.831 User Interface&lt;/h3&gt;
 
